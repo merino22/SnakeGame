@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\lopez\onedrive\escritorio\sfml\sfmlworm\sfmlworm\main.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lopez\onedrive\escritorio\sfml\sfmlworm\sfmlworm\main.cpp(150): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lopez\onedrive\escritorio\sfml\sfmlworm\sfmlworm\main.cpp(177): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lopez\onedrive\escritorio\sfml\sfmlworm\sfmlworm\main.cpp(182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lopez\onedrive\escritorio\sfml\sfmlworm\sfmlworm\main.cpp(276): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lopez\onedrive\escritorio\sfml\sfmlworm\sfmlworm\main.cpp(278): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lopez\onedrive\escritorio\sfml\sfmlworm\sfmlworm\main.cpp(283): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lopez\onedrive\escritorio\sfml\sfmlworm\sfmlworm\main.cpp(197): warning C4101: 'e': unreferenced local variable
+  SFMLworm.vcxproj -> C:\Users\lopez\OneDrive\Escritorio\SFML\SFMLworm\Debug\SFMLworm.exe
